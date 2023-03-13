@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "name": "Comics AR",
+      "price": "$7.06",
+      "url": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835dd4mLGfCk4nReh8DEiv5dcMK04qbU1Q_DQSJMqdA/110x110",
+      "id": 1
+    },
+    {
+      "name": "No Mercy Thompson",
+      "price": "$6.36",
+      "url": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835dd5WLEfCk4nReh8DEiv5daOqA5rbA0Qvy6UVR3S98",
+      "id": 2
+    },
+    {
+      "name": "Glorious AK",
+      "price": "$18.16",
+      "url": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fa4mLMfCk4nReh8DEiv5dbOq82q7YzRPy3rTS0Oyg",
+      "id": 3
+    },
+    {
+      "name": "Cold Hunter Thompson",
+      "price": "$5.93",
+      "url": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835dd5GLAfCk4nReh8DEiv5deMa08qrc_SfH_tQ8Olw",
+      "id": 4
+    },
+    {
+      "name": "Tempered Python",
+      "price": "$7.48",
+      "url": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835FX52LGfCk4nReh8DEiv5ddOKk-rLM0R_q633o1mRU",
+      "id": 5
+    },
+    {
+      "name": "Tempered BAR",
+      "price": "$4.25",
+      "url": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835df7WLCfCk4nReh8DEiv5ddOKg2pb0xRPu-EI-DrrM",
+      "id": 6
+    },
+    {
+      "name": "Frosty MP5",
+      "price": "$1.14",
+      "url": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835da4GLCfCk4nReh8DEiv5dYMag5rLE_Rfi84qZk1HQ",
+      "id": 7
+    },
+    {
+      "name": "Crossbow From Hell",
+      "price": "$1.65",
+      "url": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835dW42LAfCk4nReh8DEiv5dbOqE5qbM-Qf29t2xw-bA",
+      "id": 8
+    }
+  ]
+}

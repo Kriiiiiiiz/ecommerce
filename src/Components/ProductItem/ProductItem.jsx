@@ -1,19 +1,20 @@
-import React from 'react'
+import { useContext } from "react";
+import { CartContext } from "../../context/CartContext";
 
-export const ProductItem = ({product, setCartCount, cartCount, setSelectedProducts, selectedProducts}) => {
-  const {name, price, url} = product
+export const ProductItem = ({ product }) => {
+  const { name, url, price} = product;
+  const {cart, setCart} = useContext(CartContext)
 
-  const addToCart = () =>{
-    setCartCount(cartCount + 1)
-    setSelectedProducts([...selectedProducts, product])
-  }
+  const addProduct = () => {
+    setCart([...cart, product])
+  };
 
   return (
-    <div>
-        <p>{name}</p>
-        <p>{price}</p>
-        <img src={url} alt=""/>
-        <button onClick={addToCart}>Add to Cart</button>
+    <div style={{border: '1px solid red', borderRadius: '12px'}}>
+      <img alt="" src={url} />
+      <p style={{ color: 'white' }}>{name}</p>
+      <p style={{ color: 'gray' }}>{price}</p>
+      <button onClick={addProduct}>Add to Cart</button>
     </div>
-  )
-}
+  );
+};
